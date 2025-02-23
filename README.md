@@ -1,0 +1,1 @@
+This repository demonstrates a rather uncommon CSS bug involving unexpected element overlap due to the combination of absolute/relative positioning and box model properties (margin, padding). The bug.css file contains the erroneous CSS code, and the bugSolution.css file provides a solution that demonstrates how to resolve the problem.
